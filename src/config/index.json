@@ -21,7 +21,7 @@
     "title": "Las nietas",
     "subtitle": "",
     "description": "",
-    "img": "/assets/images/happyTeam.jpeg",
+    "img": "/assets/images/1.png",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
@@ -37,12 +37,12 @@
       {
         "title": "Productos",
         "description": "Las Nietas es un homenaje a la tradición y el arte del tejido. Ofrecemos una variedad de accesorios y artículos decorativos, todos ellos hechos a mano con técnicas ancestrales que han pasado de generación en generación.",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/1.png"
       },
       {
         "title": "Nuestro Compromiso",
         "description": "Nuestro compromiso es mantener viva la herencia cultural y ofrecer productos que aporten calidez y belleza a tu hogar.",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/logo.png"
       }
     ]
   },
@@ -53,23 +53,23 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 5462874",
-        "icon": "/assets/images/react.png"
+        "description": "+57 300 123456",
+        "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "panaderíalaesperanza@gmail.com",
-        "icon": "/assets/images/tailwindcss.svg"
+        "description": "minegocio@gmail.com",
+        "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@PanaderiaEsperanza",
-        "icon": "/assets/images/nextjs.svg"
+        "description": "@MiNegocio",
+        "icon": "/assets/images/insta.png"
       },
       {
         "name": "Facebook",
-        "description": "Panadería la Esperanza",
-        "icon": "/assets/images/ts.png"
+        "description": "Mi Negocio",
+        "icon": "/assets/images/facebook.jpg"
       }
     ]
   },

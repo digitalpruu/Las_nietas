@@ -29,12 +29,6 @@ const App = () => {
           <Canvas />
         </>
       </LazyShow>
-      <LazyShow>
-        <>
-          <Features />
-          <Canvas />
-        </>
-      </LazyShow>
     </div>
   );
 };
